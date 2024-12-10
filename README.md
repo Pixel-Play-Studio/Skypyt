@@ -33,6 +33,7 @@ To run a SkyPyt script:
    ```bash
    interpreter.exe myscript.sky
    ```
+The .sky file must be in the same folder what is .sky (look on test.sky on the repository)
 
 ---
 
